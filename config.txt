@@ -1,0 +1,5 @@
+{
+	"ip":"ALIGAMING4567.aternos.me",
+	"port": "48859",
+	"name": "afkbot"
+}
